@@ -25,12 +25,12 @@ cd faceDetection&Clustering
    - This folder encompasses a project utilizing various face detection techniques along with clustering.
    - To explore this project further, navigate to the folder and follow the instructions outlined in its corresponding readme file.
 
-3. **FaceDetectionPCA+LDA**
+3. **FaceRecognitionPCA+LDA+DL**
 ```bash
 cd FaceDetectionPCA+LDA
 ```
-
-   - Inside this folder, you'll find a project employing face detection using PCA (Principal Component Analysis) and LDA (Linear Discriminant Analysis).
+   - The folder was accidentally named FaceDetectionPCA+LDA
+   - Inside this folder, you'll find a project employing face recognition using PCA, LDA and DL.
    - For comprehensive guidance on running and understanding this project, refer to the readme file located within the folder.
 
 Feel free to navigate to each folder, and follow the instructions specified in the respective readme file to explore and utilize each project effectively.
