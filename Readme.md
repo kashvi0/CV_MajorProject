@@ -30,7 +30,7 @@ cd faceDetection&Clustering
 cd FaceDetectionPCA+LDA
 ```
    - The folder was accidentally named FaceDetectionPCA+LDA
-   - Inside this folder, you'll find a project employing face detection using PCA, LDA and DL.
+   - Inside this folder, you'll find a project employing face recognition using PCA, LDA and DL.
    - For comprehensive guidance on running and understanding this project, refer to the readme file located within the folder.
 
 Feel free to navigate to each folder, and follow the instructions specified in the respective readme file to explore and utilize each project effectively.
