@@ -5,7 +5,7 @@ This repository contains three projects focused on face detection and clustering
 
 **Clone repository:**
 ```bash
-git clone https://github.com/Arun-Raghav-S/CV-MajorProject.git
+git clone https://github.com/kashvi0/Face-Detection-Recognition-Clustering
 ```
 
 1. **face-clustering-app**
